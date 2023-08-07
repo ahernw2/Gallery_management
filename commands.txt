@@ -1,0 +1,3 @@
+cd C:\Users\ahern\Desktop\Dick_Rater
+python DR_server.py
+php DR_Client.php
